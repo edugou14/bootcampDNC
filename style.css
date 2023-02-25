@@ -227,3 +227,13 @@ footer .endereco{
 footer ul li a:hover{
     color: var(--cinzaHover);
 }
+
+footer .linha2{
+    width: 100%;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: var(--fontPadrao);
+    color: white;
+    text-align: center;
+
+}
